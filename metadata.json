@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative To-Do List",
+  "description": "A collaborative and personal task management application powered by Firebase with Google Sign-In, real-time synchronization, and a multi-turn Gemini AI productivity copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
